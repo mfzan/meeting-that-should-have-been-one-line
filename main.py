@@ -2,18 +2,20 @@
 """The Meeting That Should Have Been One Line.
 
 One program, one sentence: the single line that could have replaced an
-entire pointless meeting. The whole hour, nine people and zero real
-decisions collapse into the meeting's only actual outcome -- the donut
-rota for next week -- which a group text could have settled in seconds.
+entire pointless meeting. One hour, nine people, zero real decisions --
+the meeting's only actual outcome was the donut rota for next week,
+which a group text could have settled in ten seconds.
 """
 
 import os
 
 # The entry: the entire meeting, reduced to its only decision.
-# One hour, nine people, zero decisions -- except the donuts.
+# Nothing was decided except who brings the donuts -- and even that
+# never needed a room, nine people, or an hour.
 ENTRY = (
-    "After an hour with nine people, the meeting's only decision was "
-    "that Dave brings the donuts next Tuesday."
+    "One hour, nine people, zero decisions -- except that Dave brings "
+    "the donuts next Tuesday, which a group text could have settled "
+    "in ten seconds."
 )
 
 
